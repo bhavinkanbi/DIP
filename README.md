@@ -5,8 +5,9 @@
 **Department of Electronic & Communication Engineering 
 Bachelor of Technology (B.Tech)**
 
-**Lab Assignments
-Digital Image Processing**
+**Lab Assignments**
+
+**Digital Image Processing**
 
 Submitted by: Bhavin Kanbi
 (BT19ECE062)
