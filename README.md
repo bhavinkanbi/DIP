@@ -9,10 +9,8 @@ Bachelor of Technology (B.Tech)**
 
 **Digital Image Processing**
 
-Submitted by: Bhavin Kanbi
-(BT19ECE062)
+**Submitted by: Bhavin Kanbi
+(BT19ECE062)**
 
-To,
-
-Course coordinator: Dr Tapan Jain 
+**Course coordinator: Dr Tapan Jain Sir**
 
